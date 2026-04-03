@@ -69,7 +69,7 @@ Set up Kaggle API by placing your `kaggle.json` file in `~/.kaggle/` or as shown
 ### Real-world Validation
 
 #### Validation with Real-world Images
-![Validation with Realworld Images](Validation_with_realworld_images.png)
+![Validation with Realworld Images](Validation_with%20_realworld_images.png)
 
 ## Abstract
 
