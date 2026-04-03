@@ -1,4 +1,4 @@
-# Brain Stroke Classification and Segmentation
+# A Hybrid Deep Learning Architecture for Automated Categorization and Lesion Delineation of Brain Strokes in NCCT Imagery
 
 ## Description
 
